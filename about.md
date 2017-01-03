@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+categories: misc
 ---
+Steve has spent the majority of his life working in the tech-industry.
+After 20 years at Microsoft working on his own personal [Fortress of Solitude](https://kurtsh.files.wordpress.com/2010/08/imag0456-copy5b25d.jpg), he realized that life is too
+short, and went to work on games at Electronic Arts instead.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Beyond family and work commitments he is interested in gaming, software development, and photography.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find his open source contributions at [Github](http://github.com/stephbu)
